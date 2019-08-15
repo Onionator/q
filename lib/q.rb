@@ -1,4 +1,3 @@
-
 require("fileutils")
 user_name = ENV["USER"]
 location = Dir.pwd
@@ -14,4 +13,4 @@ puts clown
 system 'open -a Terminal "`pwd`"'
 
 
-# source ~/desktop/q/lib/q.rb <------ put this in .bash_profile
+# ruby ~/desktop/q/lib/q.rb <------ put this in .bash_profile

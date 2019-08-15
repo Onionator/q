@@ -1,1 +1,2 @@
-require 'fileutils'
+source "https://rubygems.org"
+gem('fileutils')
