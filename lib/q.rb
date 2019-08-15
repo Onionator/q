@@ -15,4 +15,4 @@ puts "~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~"
 system "'open -a Terminal "`pwd`"'"
 
 
-# ruby ~/desktop/q/lib/q.rb ------ put this in .bash_profile
+# source ruby ~/desktop/q/lib/q.rb ------ put this in .bash_profile
