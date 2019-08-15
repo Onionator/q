@@ -14,4 +14,4 @@ puts clown
 system 'open -a Terminal "`pwd`"'
 
 
-# source ruby ~/desktop/q/lib/q.rb ------ put this in .bash_profile
+# source ~/desktop/q/lib/q.rb <------ put this in .bash_profile
